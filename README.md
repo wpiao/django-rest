@@ -9,4 +9,4 @@
 7. Run command `python manage.py runserver` to run the server.
 8. Use the URL in the terminal and in the `api/music` path, checkout the app.
 9. Run command `python manage.py test` to run unit test.
-10. Docker instructions will be updated.
+10. For running on the docker, run command `docker-compose up` and checkout the app at `http://0.0.0.0:8000/api/music/`
